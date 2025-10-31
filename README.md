@@ -82,7 +82,7 @@ python plasma_sheath_pic.py --N_ion 5000 --N_electron 5000 --steps 2000 --output
 ## 📊 Example Output
 
 - **MP4 Animation (Click to view):**
-  * [Watch on Github](https://github.com/beckett-henderson/Sheath-PIC/blob/e5e5e54060e98f83af9e120f853fb8da4fd6d5fb/sheath_evolution.mp4)
+  * [Watch on Github](1D-Sheath-PIC/electron_evolution.mp4)
 - **Snapshot Example:**
   * <img src = "1D-Sheath-PIC/frame_snapshot_t3.003.PNG" width="400">
 

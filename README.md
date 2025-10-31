@@ -2,7 +2,7 @@
 
 Author: **Beckett Henderson**  
 Date Created: **August 12, 2025**  
-Last Modified: **August 12, 2025**
+Last Modified: **September 16, 2025**
 
 ---
 
@@ -12,7 +12,7 @@ This project simulates the **1D plasma sheath** that forms when a plasma with mo
 It uses a **Particle-in-Cell (PIC)** method with **Cloud-In-Cell (CIC)** charge deposition and a **Thomas algorithm solver** for the electrostatic potential.  
 The simulation applies **Dirichlet boundary conditions** (fixed wall potentials) and models **electron absorption** into sheath charge reservoirs that are re-deposited near the walls each time step.  
 
-Integration can be done via **explicit Euler** or optional **velocity-Verlet/leapfrog** for improved stability.
+Integration can be done via **velocity-Verlet/leapfrog** or optional **explicit Euler** for improved stability.
 
 ---
 
